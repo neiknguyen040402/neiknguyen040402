@@ -5,7 +5,7 @@
 ## 📫 How to reach me:
 
 <p>
-  <a href="https://www.facebook.com/profile.php?id=100054175999344" alt="Facebook">
+  <a href="https://www.facebook.com/" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
   <a href="mailto:kiennguyengtglhd@gmail.com" alt="Email">

@@ -11,8 +11,8 @@
   <a href="mailto:kiennguyengtglhd@gmail.com" alt="Email">
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
   </a>
-  <a href="mailto:kiennguyengtglhd@gmail.com" alt="Email">
-    <img src="https://icons8.com/icon/xuvGCOXi8Wyg/linkedin"/>
+  <a href="https://www.linkedin.com/in/kiennguyenhd0404/" alt="Linkedin">
+    <img src="https://img.icons8.com/fluent/48/000000/linkedin"/>
   </a>
 </p>
 

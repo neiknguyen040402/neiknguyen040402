@@ -2,6 +2,8 @@
 
 🌱 I want to be a DE.
 
+👀 I’m interested in Bigdata, Cloud.
+
 ## 📫 How to reach me:
 
 <p>

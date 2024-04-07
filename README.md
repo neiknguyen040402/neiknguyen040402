@@ -2,7 +2,7 @@
 
 🌱 I want to be a DE.
 
-👀 I’m interested in Bigdata and Cloud Computing.
+👀 I’m interested in Bigdata and DevOps.
 
 ## 📫 How to reach me:
 
